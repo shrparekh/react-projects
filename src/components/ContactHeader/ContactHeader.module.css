@@ -1,0 +1,12 @@
+.contact_section h1 {
+  font-size: 48px;
+  font-weight: 800;
+  margin-top: 100px;
+  margin-left: 140px;
+}
+.contact_section p {
+  font-size: 16px;
+  font-weight: 500;
+  width: 1500px;
+  margin-left: 150px;
+}
